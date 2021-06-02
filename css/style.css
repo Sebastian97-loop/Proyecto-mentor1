@@ -27,7 +27,7 @@ body {
 }
 .main1 h1 {
   margin: 20px 0 0 20px;
-  font-size: 27px;
+  font-size: 23px;
   font-weight: bold;
 }
 .main1 h1 strong {
@@ -35,7 +35,7 @@ body {
 }
 .main1 .paragraph {
   margin: 15px 0 0 20px;
-  font-size: 15px;
+  font-size: 14px;
   color: rgb(163, 159, 159);
 }
 
